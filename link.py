@@ -6,7 +6,7 @@ smtp_port = 587
 smtp_server = "smtp.gmail.com"
 
 # Set up the email lists
-email_from = "1rn22ai013.ananteshg@rnsit.ac.in"
+email_from = ""
 email_recipients = [
     "anantesh234@gmail.com",
     ""
